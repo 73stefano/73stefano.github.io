@@ -7,6 +7,13 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
+
+/*--add I--*/
+.circular-image {
+  border-radius:  50%;
+}
+/*--and--*/
+
 html {
   line-height: 1.15;
   /* 1 */
