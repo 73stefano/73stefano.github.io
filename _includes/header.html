@@ -1,12 +1,10 @@
 
 <header class="main_header">
-  <a href="{{site.baseurl}}/" class="logo">{% if site.logo %}{{site.logo}}{% else %}B<span>olg</span>{% endif %}
+  <a href="{{site.baseurl}}/" class="logo">{% if site.logo %}{{site.logo}}{% else %}B<span>olg</span>{% endif %} <div>
     <!--add logo-->
-  </a>
-  <a
    class="author_image">
-          <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="Author image">
-  </a>
+    <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="Author image">
+    </div> </a>
   <!--end logo-->
   <nav class="main_menu">
     <a href="{{site.baseurl}}/about/">About</a>
