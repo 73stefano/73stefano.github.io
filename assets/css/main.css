@@ -10,7 +10,9 @@
 
 /*--add I--*/
 .img-circle {
-  border-radius: 80px;
+  width: 30px; 
+  height: 30px; 
+  border-radius: 50%;
 }
 /*--and--*/
 
