@@ -16,9 +16,7 @@ banner-desc: # add banner description
 # Author settings
 author-pic: face1.jpg # your photo
 author-name: Stefano Pica # your name
-about-author: Computer Science and Automation Engineering student, 
-with the head in the Cloud, 
-always passionate about the world of computing and cloud computing 
+about-author: Computer Science and Automation Engineering student,with the head in the Cloud,always passionate about the world of computing and cloud computing 
               # about author
 email: stefano dot pica73 at gmail.com # your email
 phone: 00000000 # your pnone number
