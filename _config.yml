@@ -10,14 +10,16 @@ url: "https://73stefano.github.io" # the base hostname & protocol for your site,
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: banner_title # add banner title
+banner-title: Robot and Makers Blog # add banner title
 banner-desc: # add banner description
 
 # Author settings
 author-pic: face1.jpg # your photo
 author-name: Stefano Pica # your name
-about-author: Computer Science and Automation Engineering student with the head in the Cloud , always passionate about the world of computing and cloud computing # about author
-email: stefano.pica73@gmail.com # your email
+about-author: Computer Science and Automation Engineering student with the head in the Cloud, 
+              always passionate about the world of computing and cloud computing 
+              # about author
+email: stefano dot pica73 at gmail.com # your email
 phone: 00000000 # your pnone number
 website: https://github.com/73stefano # you website
 
