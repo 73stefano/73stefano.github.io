@@ -3923,7 +3923,7 @@ cite {
   display: inline-block;
   margin: 0.7rem 1rem;
   /*padding-left: 0.5rem; */
-   padding: 0.5rem;
+   padding: 0.5rem 0.5rem;
   font-weight: 700;
 }
 
