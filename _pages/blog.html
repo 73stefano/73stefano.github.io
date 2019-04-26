@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permanlink: Blog
+permalink: /Blog/
 ---
   {% include header.html %}
 
@@ -11,7 +11,7 @@ permanlink: Blog
   <section class="chapters cf">
       <div class="wrapper flex-row">
     <!--  {{ content }}  -->
-        {% for post in paginator.posts %}
+        {% for post in site.posts %}
          <div class="chapter">
            <a href="{{post.url | prepend: site.baseurl}}">
            {% if post.img %}
