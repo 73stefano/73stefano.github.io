@@ -1,4 +1,4 @@
-logo: logo.png # add logo name
+logo: # add logo name
 title: StefanoPica
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
